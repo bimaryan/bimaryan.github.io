@@ -35,3 +35,6 @@ h2{
     text-align: center;
     background: purple;
 }
+body{
+    background-image: linear-gradient(skyblue,blue);
+}
